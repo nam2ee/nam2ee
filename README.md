@@ -25,6 +25,7 @@ I'm a passionate Web3 developer with expertise in blockchain technology and dece
 - 🔭 I'm currently working on blockchain core development and smart contracts
 - 🌱 I'm constantly learning about Zero-Knowledge Proofs and Crypto X AI
 - 💡 I'm enthusiastic about contributing to open-source projects
+- 🧠 I'm specialist about AI Hacking
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -54,7 +55,7 @@ I'm a passionate Web3 developer with expertise in blockchain technology and dece
 
 <img align="right" alt="Achievement" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-- 🥈 Runner-up in the Generative AI Red Teaming(AI Hacking) Challenge by the Ministry of Science and ICT
+- 🥈 Received an award in the Generative AI Red Teaming(AI Hacking) Challenge by the Ministry of Science and ICT
 - 🥈 2nd Prize at Klaymakers 2023 (Backend, Smart Contract Engineer)
 - 🌟 Recipient of Mina Protocol Grants
 - 🌐 XRPL Korean docs contributor
