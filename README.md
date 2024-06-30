@@ -92,16 +92,7 @@ I'm a passionate Web3 developer with expertise in blockchain technology and dece
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h2> 🗂️ Featured Projects </h2>
 
-<p align="center">
-  <a href="https://github.com/nam2ee/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam2ee&repo=awesome-project&theme=radical" />
-  </a>
-  <a href="https://github.com/nam2ee/cool-dapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam2ee&repo=cool-dapp&theme=radical" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
