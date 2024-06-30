@@ -93,10 +93,6 @@ I'm a passionate Web3 developer with expertise in blockchain technology and dece
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nam2ee&theme=radical" alt="Luke Nam's GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
 
 
 <p align="center">
@@ -107,9 +103,6 @@ I'm a passionate Web3 developer with expertise in blockchain technology and dece
 
 ![Luke Nam's GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=nam2ee&theme=react-dark)
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 
 <p align="center">
