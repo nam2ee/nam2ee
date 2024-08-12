@@ -55,16 +55,37 @@ I'm a passionate Web3 developer with expertise in blockchain technology and dece
 
 <img align="right" alt="Achievement" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-- 🥈 Received an award in the Generative AI Red Teaming(AI Hacking) Challenge by the Ministry of Science and ICT
-- 🥈 2nd Prize at Klaymakers 2023 (Backend, Smart Contract Engineer)
-- 🌟 Recipient of Mina Protocol Grants
-- 🌐 XRPL Korean docs contributor
-- 🚀 Klaytn Foundation Dev Ambassador
-- 🌠 Arbitrum Foundation Ambassador
-- 💼 Backend and Smart Contract Engineer for XRPL-EVM side chain lending protocol
-- 🧠 Former AI Engineer at AIM intelligence
-- 🎓 Blockchain At Yonsei Tech Lead
-- 🏫 Blockchain at Yonsei Alumni
+- CryptoXAI researcher at AImedaresearch
+
+- Recipient of MINA Protocol Grants (ZK Packet Tracer)
+
+- Speaker at MINA protocol - KBW 2024
+
+- 2nd Prize at Klaymakers 2023 (Backend, Smart Contract Engineer)
+
+- XRPL Korean docs contributor
+
+- Klaytn Foundation Dev Ambassador
+
+- Arbitrum Foundation Ambassador
+
+- Backend and Smart Contract Engineer for XRPL-EVM side chain lending protocol
+
+- Creator of Ludium Rust programming language educational materials
+
+- Blockchain At Yonsei 12th Generation Tech Lead
+
+- Blockchain at Yonsei Alumni
+
+- Former Decentralized AI Team lead
+
+- Published research at Near (Decentralized AI)
+
+- Runner-up in the Generative AI Red Team Challenge hosted by the Ministry of Science and ICT
+
+- Former AI Engineer at AIM intelligence
+
+- Former AI Security researcher at AIM intelligence
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
